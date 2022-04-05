@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SinglePlayerSleep:jar">
+    <output-path>$PROJECT_DIR$/../ExportedPlugins</output-path>
+    <root id="archive" name="SinglePlayerSleep.jar">
+      <element id="module-output" name="SinglePlayerSleep" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

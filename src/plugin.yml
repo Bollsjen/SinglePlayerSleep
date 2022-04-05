@@ -1,0 +1,5 @@
+name: SinglePlayerSleep
+author: Magnus Boll Jensen
+version: 1.0.0
+main: dk.bollsjen.singleplayersleep.SinglePlayerSleep
+api-version: 1.18
